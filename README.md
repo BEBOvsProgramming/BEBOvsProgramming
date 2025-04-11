@@ -8,13 +8,13 @@ which enabled me to create a couple of responsive websites. I'm constantly learn
 
 - **Front-End Development**: HTML, CSS
 - **Responsive Design**: Ensuring websites look great on any device
-- **Programming Languages**: Python,html and css
+- **Programming Languages**: Python, html, css, JavaScript
 - **Databases**: MySQL
-- **Currently Learning**: JavaScript
+- **Currently Learning**: currently making front-end projects.
 
 ## 🌱 Current Focus
 
-I'm currently focused on learning JavaScript to enhance my web development skills and promote my website. JavaScript will allow me to add interactivity and dynamic features to my projects, making them more engaging for users.
+I'm currently focused on applying all what it know in projects to enhance my web development skills and promote my website. 
 
 ## 📈 Projects
 
@@ -22,6 +22,7 @@ Here are some of the projects I've worked on:
 
 1. [**Responsive Portfolio Website**: A demo website  built using HTML and CSS.](https://github.com/BEBOvsProgramming/Project-Demo-1.0)
 2.[ **Blog Website**: A simple game store website created with HTML, CSS.](https://github.com/BEBOvsProgramming/Project-2)
+3.[**Responsive storage system: html,css,js](https://github.com/BEBOvsProgramming/Storage_System)
 
 ## 🚀 Future Goals
 
